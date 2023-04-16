@@ -1,3 +1,3 @@
 # Logistic-regression
 
-[File Name](./Logistic_regression.ipynb)
+[File](./Logistic_regression.ipynb)
